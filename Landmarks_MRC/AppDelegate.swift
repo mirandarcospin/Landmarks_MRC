@@ -1,9 +1,9 @@
-/*
-See LICENSE folder for this sample’s licensing information.
-
-Abstract:
-The application delegate.
-*/
+//
+//  AppDelegate.swift
+//  Landmarks_MRC
+//
+//  Created by Miranda Ramirez Cospin on 11/4/20.
+//
 
 import UIKit
 
