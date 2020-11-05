@@ -57,7 +57,7 @@
 		EE401EBC2553D7B2007E9087 /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
 		EE401EC02553D87A007E9087 /* BadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeSymbol.swift; sourceTree = "<group>"; };
 		EE401EC32553D8E0007E9087 /* RotatedBadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatedBadgeSymbol.swift; sourceTree = "<group>"; };
-		EE401ECB2553DB70007E9087 /* HikeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HikeView.swift; path = ../../../Downloads/AnimatingViewsAndTransitions/StartingPoint/Landmarks/Landmarks/HikeView.swift; sourceTree = "<group>"; };
+		EE401ECB2553DB70007E9087 /* HikeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeView.swift; sourceTree = "<group>"; };
 		EE401ECE2553DB99007E9087 /* HikeDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HikeDetail.swift; path = ../../../Downloads/AnimatingViewsAndTransitions/StartingPoint/Landmarks/Landmarks/HikeDetail.swift; sourceTree = "<group>"; };
 		EE401ED12553DD2B007E9087 /* UserData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UserData.swift; path = ../../../../Downloads/AnimatingViewsAndTransitions/Complete/Landmarks/Landmarks/Models/UserData.swift; sourceTree = "<group>"; };
 		EE401ED42553DD57007E9087 /* Hike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hike.swift; sourceTree = "<group>"; };
