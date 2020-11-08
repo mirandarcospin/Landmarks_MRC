@@ -106,9 +106,9 @@
 		EEC4A22C25561779009B57C6 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		EEC4A230255617E8009B57C6 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
 		EEC4A2332556189E009B57C6 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
-		EEC4A23725561BCE009B57C6 /* turtlerock_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = turtlerock_feature.jpg; path = ../../../../Downloads/InterfacingWithUIKit/Complete/Landmarks/Landmarks/Resources/turtlerock_feature.jpg; sourceTree = "<group>"; };
-		EEC4A23825561BCE009B57C6 /* stmarylake_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = stmarylake_feature.jpg; path = ../../../../Downloads/InterfacingWithUIKit/Complete/Landmarks/Landmarks/Resources/stmarylake_feature.jpg; sourceTree = "<group>"; };
-		EEC4A23925561BCE009B57C6 /* charleyrivers_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = charleyrivers_feature.jpg; path = ../../../../Downloads/InterfacingWithUIKit/Complete/Landmarks/Landmarks/Resources/charleyrivers_feature.jpg; sourceTree = "<group>"; };
+		EEC4A23725561BCE009B57C6 /* turtlerock_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = turtlerock_feature.jpg; sourceTree = "<group>"; };
+		EEC4A23825561BCE009B57C6 /* stmarylake_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stmarylake_feature.jpg; sourceTree = "<group>"; };
+		EEC4A23925561BCE009B57C6 /* charleyrivers_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers_feature.jpg; sourceTree = "<group>"; };
 		EEC4A23F25561CBD009B57C6 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 		EEF789DB2553E24E00DE0F37 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		EEF789E02553E37100DE0F37 /* HikeDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeDetail.swift; sourceTree = "<group>"; };
