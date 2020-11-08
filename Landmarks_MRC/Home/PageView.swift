@@ -9,9 +9,8 @@ import SwiftUI
 
 struct PageView<Page: View>: View {
 
-    @State var currentPage = 0
-
     var viewControllers: [UIHostingController<Page>]
+    @State var currentPage = 0
 
     init(viewControllers: [UIHostingController<Page>]) {
         self.viewControllers = viewControllers
@@ -37,3 +36,4 @@ struct PageView_Previews: PreviewProvider {
              PageView(viewControllers: controllers).aspectRatio(3/2, contentMode: .fit)
     }
 }
+
