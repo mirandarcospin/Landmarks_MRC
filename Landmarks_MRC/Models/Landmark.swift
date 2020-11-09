@@ -40,6 +40,10 @@ struct Landmark: Hashable, Codable, Identifiable {
         case lakes = "Lakes"
         case rivers = "Rivers"
         case mountains = "Mountains"
+        case campus = "Campus"
+        case abilene = "Abilene"
+        case guatemala = "Guatemala"
+        
     }
 }
 

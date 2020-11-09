@@ -7,6 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EE02BE732558B84400E3C0C7 /* antigua_feature.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE642558B84300E3C0C7 /* antigua_feature.jpg */; };
+		EE02BE742558B84400E3C0C7 /* thebean.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE652558B84300E3C0C7 /* thebean.jpg */; };
+		EE02BE752558B84400E3C0C7 /* chipotle_feature.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE662558B84300E3C0C7 /* chipotle_feature.jpg */; };
+		EE02BE762558B84400E3C0C7 /* cayala.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE672558B84300E3C0C7 /* cayala.jpg */; };
+		EE02BE772558B84400E3C0C7 /* theaculake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE682558B84300E3C0C7 /* theaculake.jpg */; };
+		EE02BE782558B84400E3C0C7 /* tikal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE692558B84300E3C0C7 /* tikal.jpg */; };
+		EE02BE792558B84400E3C0C7 /* footballfield.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE6A2558B84300E3C0C7 /* footballfield.jpg */; };
+		EE02BE7A2558B84400E3C0C7 /* antigua.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE6B2558B84300E3C0C7 /* antigua.jpg */; };
+		EE02BE7B2558B84400E3C0C7 /* movies.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE6C2558B84300E3C0C7 /* movies.jpg */; };
+		EE02BE7C2558B84400E3C0C7 /* chipotle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE6D2558B84300E3C0C7 /* chipotle.jpg */; };
+		EE02BE7D2558B84400E3C0C7 /* lacruz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE6E2558B84400E3C0C7 /* lacruz.jpg */; };
+		EE02BE7E2558B84400E3C0C7 /* primetime.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE6F2558B84400E3C0C7 /* primetime.jpg */; };
+		EE02BE7F2558B84400E3C0C7 /* footballfield_feature.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE702558B84400E3C0C7 /* footballfield_feature.jpg */; };
+		EE02BE802558B84400E3C0C7 /* starbucks.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE712558B84400E3C0C7 /* starbucks.jpg */; };
+		EE02BE812558B84400E3C0C7 /* walmart.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EE02BE722558B84400E3C0C7 /* walmart.jpg */; };
 		EE06E5912551A4E900355C6F /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE06E5902551A4E900355C6F /* LandmarkDetail.swift */; };
 		EE06E5932551A4EB00355C6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE06E5922551A4EB00355C6F /* Assets.xcassets */; };
 		EE06E5962551A4EB00355C6F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE06E5952551A4EB00355C6F /* Preview Assets.xcassets */; };
@@ -60,6 +75,21 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EE02BE642558B84300E3C0C7 /* antigua_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = antigua_feature.jpg; path = ../../../fotos/antigua_feature.jpg; sourceTree = "<group>"; };
+		EE02BE652558B84300E3C0C7 /* thebean.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = thebean.jpg; path = ../../../fotos/thebean.jpg; sourceTree = "<group>"; };
+		EE02BE662558B84300E3C0C7 /* chipotle_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = chipotle_feature.jpg; path = ../../../fotos/chipotle_feature.jpg; sourceTree = "<group>"; };
+		EE02BE672558B84300E3C0C7 /* cayala.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cayala.jpg; path = ../../../fotos/cayala.jpg; sourceTree = "<group>"; };
+		EE02BE682558B84300E3C0C7 /* theaculake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = theaculake.jpg; path = ../../../fotos/theaculake.jpg; sourceTree = "<group>"; };
+		EE02BE692558B84300E3C0C7 /* tikal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tikal.jpg; path = ../../../fotos/tikal.jpg; sourceTree = "<group>"; };
+		EE02BE6A2558B84300E3C0C7 /* footballfield.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = footballfield.jpg; path = ../../../fotos/footballfield.jpg; sourceTree = "<group>"; };
+		EE02BE6B2558B84300E3C0C7 /* antigua.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = antigua.jpg; path = ../../../fotos/antigua.jpg; sourceTree = "<group>"; };
+		EE02BE6C2558B84300E3C0C7 /* movies.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = movies.jpg; path = ../../../fotos/movies.jpg; sourceTree = "<group>"; };
+		EE02BE6D2558B84300E3C0C7 /* chipotle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = chipotle.jpg; path = ../../../fotos/chipotle.jpg; sourceTree = "<group>"; };
+		EE02BE6E2558B84400E3C0C7 /* lacruz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lacruz.jpg; path = ../../../fotos/lacruz.jpg; sourceTree = "<group>"; };
+		EE02BE6F2558B84400E3C0C7 /* primetime.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = primetime.jpg; path = ../../../fotos/primetime.jpg; sourceTree = "<group>"; };
+		EE02BE702558B84400E3C0C7 /* footballfield_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = footballfield_feature.jpg; path = ../../../fotos/footballfield_feature.jpg; sourceTree = "<group>"; };
+		EE02BE712558B84400E3C0C7 /* starbucks.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = starbucks.jpg; path = ../../../fotos/starbucks.jpg; sourceTree = "<group>"; };
+		EE02BE722558B84400E3C0C7 /* walmart.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = walmart.jpg; path = ../../../fotos/walmart.jpg; sourceTree = "<group>"; };
 		EE06E58B2551A4E900355C6F /* Landmarks_MRC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks_MRC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE06E5902551A4E900355C6F /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		EE06E5922551A4EB00355C6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -193,6 +223,21 @@
 		EE748842255394B20002B4FC /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				EE02BE642558B84300E3C0C7 /* antigua_feature.jpg */,
+				EE02BE6B2558B84300E3C0C7 /* antigua.jpg */,
+				EE02BE672558B84300E3C0C7 /* cayala.jpg */,
+				EE02BE662558B84300E3C0C7 /* chipotle_feature.jpg */,
+				EE02BE6D2558B84300E3C0C7 /* chipotle.jpg */,
+				EE02BE702558B84400E3C0C7 /* footballfield_feature.jpg */,
+				EE02BE6A2558B84300E3C0C7 /* footballfield.jpg */,
+				EE02BE6E2558B84400E3C0C7 /* lacruz.jpg */,
+				EE02BE6C2558B84300E3C0C7 /* movies.jpg */,
+				EE02BE6F2558B84400E3C0C7 /* primetime.jpg */,
+				EE02BE712558B84400E3C0C7 /* starbucks.jpg */,
+				EE02BE682558B84300E3C0C7 /* theaculake.jpg */,
+				EE02BE652558B84300E3C0C7 /* thebean.jpg */,
+				EE02BE692558B84300E3C0C7 /* tikal.jpg */,
+				EE02BE722558B84400E3C0C7 /* walmart.jpg */,
 				EE74884A255394B20002B4FC /* landmarkData.json */,
 				EE401EDD2553DE56007E9087 /* hikeData.json */,
 				EEC4A23925561BCE009B57C6 /* charleyrivers_feature.jpg */,
@@ -321,24 +366,39 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE401EDE2553DE56007E9087 /* hikeData.json in Resources */,
+				EE02BE782558B84400E3C0C7 /* tikal.jpg in Resources */,
 				EE748853255394B20002B4FC /* lakemcdonald.jpg in Resources */,
+				EE02BE7A2558B84400E3C0C7 /* antigua.jpg in Resources */,
 				EE74885C255394B20002B4FC /* rainbowlake.jpg in Resources */,
+				EE02BE7D2558B84400E3C0C7 /* lacruz.jpg in Resources */,
 				EE06E5962551A4EB00355C6F /* Preview Assets.xcassets in Resources */,
 				EE748855255394B20002B4FC /* twinlake.jpg in Resources */,
+				EE02BE7E2558B84400E3C0C7 /* primetime.jpg in Resources */,
 				EEC4A23A25561BCE009B57C6 /* turtlerock_feature.jpg in Resources */,
 				EE74885A255394B20002B4FC /* stmarylake.jpg in Resources */,
+				EE02BE742558B84400E3C0C7 /* thebean.jpg in Resources */,
 				EE748857255394B20002B4FC /* landmarkData.json in Resources */,
 				EE6FD79C2554656F003956C9 /* LaunchScreen.storyboard in Resources */,
+				EE02BE7F2558B84400E3C0C7 /* footballfield_feature.jpg in Resources */,
 				EE748851255394B20002B4FC /* silversalmoncreek.jpg in Resources */,
 				EEC4A23C25561BCE009B57C6 /* charleyrivers_feature.jpg in Resources */,
 				EE06E5932551A4EB00355C6F /* Assets.xcassets in Resources */,
 				EEC4A23B25561BCE009B57C6 /* stmarylake_feature.jpg in Resources */,
+				EE02BE7B2558B84400E3C0C7 /* movies.jpg in Resources */,
 				EE748852255394B20002B4FC /* icybay.jpg in Resources */,
 				EE748858255394B20002B4FC /* chincoteague.jpg in Resources */,
+				EE02BE732558B84400E3C0C7 /* antigua_feature.jpg in Resources */,
 				EE74885B255394B20002B4FC /* chilkoottrail.jpg in Resources */,
+				EE02BE7C2558B84400E3C0C7 /* chipotle.jpg in Resources */,
 				EE748856255394B20002B4FC /* umbagog.jpg in Resources */,
 				EE748850255394B20002B4FC /* turtlerock.jpg in Resources */,
+				EE02BE812558B84400E3C0C7 /* walmart.jpg in Resources */,
+				EE02BE772558B84400E3C0C7 /* theaculake.jpg in Resources */,
+				EE02BE802558B84400E3C0C7 /* starbucks.jpg in Resources */,
+				EE02BE762558B84400E3C0C7 /* cayala.jpg in Resources */,
 				EE748859255394B20002B4FC /* charleyrivers.jpg in Resources */,
+				EE02BE792558B84400E3C0C7 /* footballfield.jpg in Resources */,
+				EE02BE752558B84400E3C0C7 /* chipotle_feature.jpg in Resources */,
 				EE748854255394B20002B4FC /* hiddenlake.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

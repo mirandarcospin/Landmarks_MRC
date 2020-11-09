@@ -1,183 +1,183 @@
 [
     {
-        "name": "Turtle Rock",
-        "category": "Rivers",
-        "city": "Twentynine Palms",
-        "state": "California",
+        "name": "Elmer Gray Stadium",
+        "category": "Campus",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1001,
         "isFeatured": true,
-        "isFavorite": true,
-        "park": "Joshua Tree National Park",
+        "isFavorite": false,
+        "park": "Stadium & Arenas",
         "coordinates": {
-            "longitude": -116.166868,
-            "latitude": 34.011286
+            "longitude": -99.710378,
+            "latitude": 32.472275
         },
-        "imageName": "turtlerock"
+        "imageName": "footballfield"
     },
     {
-        "name": "Silver Salmon Creek",
-        "category": "Lakes",
-        "city": "Port Alsworth",
-        "state": "Alaska",
+        "name": "The World Famous Bean",
+        "category": "Campus",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1002,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Lake Clark National Park and Preserve",
+        "park": "Buffet",
         "coordinates": {
-            "longitude": -152.665167,
-            "latitude": 59.980167
+            "longitude": -99.708492,
+            "latitude": 32.468857
         },
-        "imageName": "silversalmoncreek"
+        "imageName": "thebean"
     },
     {
-        "name": "Chilkoot Trail",
-        "category": "Mountains",
-        "city": "Skagway",
-        "state": "Alaska",
+        "name": "Starbucks",
+        "category": "Campus",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1003,
         "isFeatured": false,
         "isFavorite": true,
-        "park": "Klondike Gold Rush National Historical Park",
+        "park": "Coffee & Tea",
         "coordinates": {
-            "longitude": -135.334571,
-            "latitude": 59.560551
+            "longitude": -99.709860,
+            "latitude": 32.468831
         },
-        "imageName": "chilkoottrail"
+        "imageName": "starbucks"
     },
     {
-        "name": "St. Mary Lake",
-        "category": "Lakes",
-        "city": "Browning",
-        "state": "Montana",
+        "name": "Faubus Fountain Lake",
+        "category": "Campus",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1004,
-        "isFeatured": true,
+        "isFeatured": false,
         "isFavorite": true,
-        "park": "Glacier National Park",
+        "park": "Galaxy Park",
         "coordinates": {
-            "longitude": -113.536248,
-            "latitude": 48.69423
+            "longitude": -99.704057,
+            "latitude": 32.470881
         },
-        "imageName": "stmarylake"
+        "imageName": "theaculake"
     },
     {
-        "name": "Twin Lake",
-        "category": "Lakes",
-        "city": "Twin Lakes",
-        "state": "Alaska",
+        "name": "PrimeTime",
+        "category": "Abilene",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1005,
         "isFeatured": false,
-        "isFavorite": false,
-        "park": "Lake Clark National Park and Preserve",
+        "isFavorite": true,
+        "park": "Fun center",
         "coordinates": {
-            "longitude": -153.849883,
-            "latitude": 60.641684
+            "longitude": -99.717498,
+            "latitude": 32.394739
         },
-        "imageName": "twinlake"
+        "imageName": "primetime"
     },
     {
-        "name": "Lake McDonald",
-        "category": "Mountains",
-        "city": "West Glacier",
-        "state": "Montana",
+        "name": "Cinemark",
+        "category": "Abilene",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1006,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Glacier National Park",
+        "park": "Movie theater",
         "coordinates": {
-            "longitude": -113.934831,
-            "latitude": 48.56002
+            "longitude": -99.711786,
+            "latitude": 32.487084
         },
-        "imageName": "lakemcdonald"
+        "imageName": "movies"
     },
     {
-        "name": "Charley Rivers",
-        "category": "Rivers",
-        "city": "Eaking",
-        "state": "Alaska",
+        "name": "Chipotle Mexican Grill",
+        "category": "Abilene",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1007,
         "isFeatured": true,
-        "isFavorite": false,
-        "park": "Charley Rivers National Preserve",
+        "isFavorite": true,
+        "park": "Restaurant",
         "coordinates": {
-            "longitude": -143.122586,
-            "latitude": 65.350021
+            "longitude": -99.765341,
+            "latitude": 32.405444
         },
-        "imageName": "charleyrivers",
+        "imageName": "chipotle",
     },
     {
-        "name": "Icy Bay",
-        "category": "Mountains",
-        "city": "Icy Bay",
-        "state": "Alaska",
+        "name": "Walmart",
+        "category": "Abilene",
+        "city": "Abilene",
+        "state": "Texas",
         "id": 1008,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Wrangell-St. Elias National Park and Preserve",
+        "park": "Department store",
         "coordinates": {
-            "longitude": -141.518167,
-            "latitude": 60.089917
+            "longitude": -99.698002,
+            "latitude": 32.480826
         },
-        "imageName": "icybay"
+        "imageName": "walmart"
     },
     {
-        "name": "Rainbow Lake",
-        "category": "Lakes",
-        "city": "Willow",
-        "state": "Alaska",
+        "name": "Santa Catalina Arch",
+        "category": "Guatemala",
+        "city": "Antigua",
+        "state": "---",
         "id": 1009,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "State Recreation Area",
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Tourist attraction",
         "coordinates": {
-            "longitude": -150.086103,
-            "latitude": 61.694334
+            "longitude": -90.734267,
+            "latitude": 14.559657
         },
-        "imageName": "rainbowlake"
+        "imageName": "antigua"
     },
     {
-        "name": "Hidden Lake",
-        "category": "Lakes",
-        "city": "Newhalem",
-        "state": "Washington",
+        "name": "Paseo Cayala",
+        "category": "Guatemala",
+        "city": "Guatemala",
+        "state": "---",
         "id": 1010,
         "isFeatured": false,
-        "isFavorite": false,
-        "park": "North Cascades National Park",
+        "isFavorite": true,
+        "park": "Shopping center",
         "coordinates": {
-            "longitude": -121.17799,
-            "latitude": 48.495442
+            "longitude": -90.486335,
+            "latitude": 14.610212
         },
-        "imageName": "hiddenlake"
+        "imageName": "cayala"
     },
     {
-        "name": "Chincoteague",
-        "category": "Rivers",
-        "city": "Chincoteague",
-        "state": "Virginia",
+        "name": "The Great Jaguar Tikal",
+        "category": "Guatemala",
+        "city": "Peten",
+        "state": "---",
         "id": 1011,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Chincoteague National Wildlife Refuge",
+        "park": "Historical landmark",
         "coordinates": {
-            "longitude": -75.383212,
-            "latitude": 37.91531
+            "longitude": -89.623030,
+            "latitude": 17.222127
         },
-        "imageName": "chincoteague"
+        "imageName": "tikal"
     },
     {
-        "name": "Lake Umbagog",
-        "category": "Lakes",
-        "city": "Errol",
-        "state": "New Hampshire",
+        "name": "Cerro de La Cruz",
+        "category": "Guatemala",
+        "city": "Antigua",
+        "state": "---",
         "id": 1012,
         "isFeatured": false,
-        "isFavorite": false,
-        "park": "Umbagog National Wildlife Refuge",
+        "isFavorite": true,
+        "park": "Tourist attraction & scenic spot",
         "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
+            "longitude": -90.731733,
+            "latitude": 14.564208
         },
-        "imageName": "umbagog"
+        "imageName": "lacruz"
     }
 ]
 
