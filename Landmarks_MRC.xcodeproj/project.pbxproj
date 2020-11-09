@@ -75,21 +75,21 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		EE02BE642558B84300E3C0C7 /* antigua_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = antigua_feature.jpg; path = ../../../fotos/antigua_feature.jpg; sourceTree = "<group>"; };
-		EE02BE652558B84300E3C0C7 /* thebean.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = thebean.jpg; path = ../../../fotos/thebean.jpg; sourceTree = "<group>"; };
-		EE02BE662558B84300E3C0C7 /* chipotle_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = chipotle_feature.jpg; path = ../../../fotos/chipotle_feature.jpg; sourceTree = "<group>"; };
-		EE02BE672558B84300E3C0C7 /* cayala.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cayala.jpg; path = ../../../fotos/cayala.jpg; sourceTree = "<group>"; };
-		EE02BE682558B84300E3C0C7 /* theaculake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = theaculake.jpg; path = ../../../fotos/theaculake.jpg; sourceTree = "<group>"; };
-		EE02BE692558B84300E3C0C7 /* tikal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tikal.jpg; path = ../../../fotos/tikal.jpg; sourceTree = "<group>"; };
-		EE02BE6A2558B84300E3C0C7 /* footballfield.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = footballfield.jpg; path = ../../../fotos/footballfield.jpg; sourceTree = "<group>"; };
-		EE02BE6B2558B84300E3C0C7 /* antigua.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = antigua.jpg; path = ../../../fotos/antigua.jpg; sourceTree = "<group>"; };
-		EE02BE6C2558B84300E3C0C7 /* movies.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = movies.jpg; path = ../../../fotos/movies.jpg; sourceTree = "<group>"; };
-		EE02BE6D2558B84300E3C0C7 /* chipotle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = chipotle.jpg; path = ../../../fotos/chipotle.jpg; sourceTree = "<group>"; };
-		EE02BE6E2558B84400E3C0C7 /* lacruz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lacruz.jpg; path = ../../../fotos/lacruz.jpg; sourceTree = "<group>"; };
-		EE02BE6F2558B84400E3C0C7 /* primetime.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = primetime.jpg; path = ../../../fotos/primetime.jpg; sourceTree = "<group>"; };
-		EE02BE702558B84400E3C0C7 /* footballfield_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = footballfield_feature.jpg; path = ../../../fotos/footballfield_feature.jpg; sourceTree = "<group>"; };
-		EE02BE712558B84400E3C0C7 /* starbucks.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = starbucks.jpg; path = ../../../fotos/starbucks.jpg; sourceTree = "<group>"; };
-		EE02BE722558B84400E3C0C7 /* walmart.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = walmart.jpg; path = ../../../fotos/walmart.jpg; sourceTree = "<group>"; };
+		EE02BE642558B84300E3C0C7 /* antigua_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = antigua_feature.jpg; sourceTree = "<group>"; };
+		EE02BE652558B84300E3C0C7 /* thebean.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thebean.jpg; sourceTree = "<group>"; };
+		EE02BE662558B84300E3C0C7 /* chipotle_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chipotle_feature.jpg; sourceTree = "<group>"; };
+		EE02BE672558B84300E3C0C7 /* cayala.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cayala.jpg; sourceTree = "<group>"; };
+		EE02BE682558B84300E3C0C7 /* theaculake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = theaculake.jpg; sourceTree = "<group>"; };
+		EE02BE692558B84300E3C0C7 /* tikal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tikal.jpg; sourceTree = "<group>"; };
+		EE02BE6A2558B84300E3C0C7 /* footballfield.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = footballfield.jpg; sourceTree = "<group>"; };
+		EE02BE6B2558B84300E3C0C7 /* antigua.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = antigua.jpg; sourceTree = "<group>"; };
+		EE02BE6C2558B84300E3C0C7 /* movies.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = movies.jpg; sourceTree = "<group>"; };
+		EE02BE6D2558B84300E3C0C7 /* chipotle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chipotle.jpg; sourceTree = "<group>"; };
+		EE02BE6E2558B84400E3C0C7 /* lacruz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lacruz.jpg; sourceTree = "<group>"; };
+		EE02BE6F2558B84400E3C0C7 /* primetime.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = primetime.jpg; sourceTree = "<group>"; };
+		EE02BE702558B84400E3C0C7 /* footballfield_feature.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = footballfield_feature.jpg; sourceTree = "<group>"; };
+		EE02BE712558B84400E3C0C7 /* starbucks.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = starbucks.jpg; sourceTree = "<group>"; };
+		EE02BE722558B84400E3C0C7 /* walmart.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = walmart.jpg; sourceTree = "<group>"; };
 		EE06E58B2551A4E900355C6F /* Landmarks_MRC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks_MRC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE06E5902551A4E900355C6F /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		EE06E5922551A4EB00355C6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
